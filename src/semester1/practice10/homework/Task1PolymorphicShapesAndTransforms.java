@@ -227,6 +227,6 @@ public class Task1PolymorphicShapesAndTransforms {
         }
 
         System.out.println("Нова сумарна площа сцени: " + String.format("%.2f", calculateTotalArea(shapes)) + " кв.од.");
-        System.out.println("================================================================БУРМАЛДА=================");
+        System.out.println("=======================================================================================");
     }
 }
